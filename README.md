@@ -48,7 +48,7 @@
 
 <!-- LICENSE --> 
 <h2 id="license">License</h2>
-<p><a href="https://choosealicense.com/licenses/mit/">MIT</a></p>
+<p>Distributed under the MIT License. See LICENSE for more information.</p>
 <p>## 
 
 <!-- FOOTER -->
