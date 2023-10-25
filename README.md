@@ -33,6 +33,7 @@
 <li>Begin assembly</li>
 <li>Create the code</li>
 <li>Provide communication with peripherals</li>
+<li>Implement functionalities</li>
 <p><em>
 </em></p>
 
