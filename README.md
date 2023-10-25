@@ -46,10 +46,5 @@
 </li>
 </ul>
 
-<!-- LICENSE --> 
-<h2 id="license">License</h2>
-<p>Distributed under the MIT License. See LICENSE for more information.</p>
-<p>## 
-
 <!-- FOOTER -->
 Our is project realised within Design Laboratories at <a href="https://www.agh.edu.pl/">AGH UST</a>.</p>
