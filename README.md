@@ -32,6 +32,7 @@
 <li>Buy needed components</li>
 <li>Begin assembly</li>
 <li>Create the code</li>
+<li>Provide communication with peripherals</li>
 <p><em>
 </em></p>
 
