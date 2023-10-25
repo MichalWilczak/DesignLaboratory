@@ -29,6 +29,7 @@
 
 <!-- ROADMAP -->
 <h2 id="roadmap">Roadmap</h2>
+<li>Buy needed components</li>
 <p><em>
 </em></p>
 
