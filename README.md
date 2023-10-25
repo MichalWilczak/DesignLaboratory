@@ -30,6 +30,8 @@
 <!-- ROADMAP -->
 <h2 id="roadmap">Roadmap</h2>
 <li>Buy needed components</li>
+<li>Begin assembly</li>
+<li>Create the code</li>
 <p><em>
 </em></p>
 
