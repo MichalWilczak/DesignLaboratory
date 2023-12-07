@@ -29,13 +29,7 @@
 
 <!-- ROADMAP -->
 <h2 id="roadmap">Roadmap</h2>
-<li>Buy needed components</li>
-<li>Begin assembly</li>
-<li>Create the code</li>
-<li>Provide communication with peripherals</li>
-<li>Implement functionalities</li>
-<p><em>
-</em></p>
+<p> <img src="Images/Roadmap.png" alt="Roadmap"> </p>
 
 <!-- DOCS -->
 <h2 id="documentation">Documentation</h2>
