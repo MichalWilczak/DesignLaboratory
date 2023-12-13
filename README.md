@@ -32,7 +32,7 @@
 
 <!-- DOCS -->
 <h2 id="documentation">Documentation</h2>
-<p><a href="https://aghedupl-my.sharepoint.com/:w:/g/personal/pkuzniar_student_agh_edu_pl/EbppDLLTxddEi2KyFph8hUkBI8oNjlzXhrIsMzaOyx1Fxw?e=VbGDb7" target="_blank">Open Documentation</a></p>
+<p><a href="https://docs.google.com/document/d/1zGVxelh6Lqd8fTjk6PqKxtoFgIcpbrBV/edit?usp=sharing&ouid=104207368821701978385&rtpof=true&sd=true" target="_blank">Open Documentation</a></p>
 
 
 <!-- CREATORS -->
