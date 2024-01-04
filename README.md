@@ -30,6 +30,26 @@
 <h2 id="roadmap">Roadmap</h2>
 <p> <img src="Images/Roadmap.png" alt="Roadmap"> </p>
 
+<!-- WORKSHARING -->
+<h2 id="worksharing">Work Sharing</h2>
+<table style="width:200%">
+  <tr>
+    <th width=250px>Oliwia</th>
+    <th width=250px>Michał</th>
+    <th width=250px>Paweł</th>
+  </tr>
+  <tr>
+    <td>&#x23F3; Readme</td>
+    <td>&#x23F3; Readme</td>
+    <td>&#x23F3; Readme</td>
+  </tr>
+  <tr>
+    <td>&#x2705; Roadmap</td>
+    <td>&#x2705; Pinout and connection</td>
+    <td>&#x2705; Pinout and connection</td>
+  </tr>
+</table>
+
 <!-- DOCS -->
 <h2 id="documentation">Documentation</h2>
 <p><a href="https://docs.google.com/document/d/1zGVxelh6Lqd8fTjk6PqKxtoFgIcpbrBV/edit?usp=sharing&ouid=104207368821701978385&rtpof=true&sd=true" target="_blank">Open Documentation</a></p>
