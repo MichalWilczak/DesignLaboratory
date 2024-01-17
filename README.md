@@ -50,7 +50,7 @@
 
 <!-- DOCS -->
 <h2 id="documentation">Documentation</h2>
-<p><a href="https://drive.google.com/file/d/17NPVSh1mX54RB5hej4fzXOFSnYwPqoHJ/view?usp=sharing">Open Documentation</a></p>
+<p><a href="https://drive.google.com/file/d/1EK1wONre-ZPY1tlNELgjgD0s9UJjSBDw/view?usp=sharing">Open Documentation</a></p>
 
 
 <!-- CREATORS -->
