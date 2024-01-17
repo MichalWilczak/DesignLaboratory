@@ -4,7 +4,7 @@
 
 <!-- DESCRIPTION -->
 <h2 id="specification"  align="center">Specification</h2>
-<p>Based on ESP32 microcontroller with built-in Bluetooth and WiFi modules and attached LCD display communicating with the main board over SPI interface.</p>
+<p>The Wi-Fi Analyzer project integrates an ESP32 microcontroller with embedded Bluetooth and WiFi modules, an ILI9341 TFT display and communication over an SPI interface. This autonomous system performs real-time analysis of nearby Wi-Fi networks, measures signal strength and presents key information on the TFT display. The ESP32's Bluetooth functionality allows convenient remote control from a paired smartphone, offering a versatile and dynamic solution for Wi-Fi diagnostics.</p>
 
 <!-- COMPONENTS -->
 <h2 id="components">Components</h2>
