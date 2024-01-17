@@ -4,7 +4,7 @@
 
 <!-- DESCRIPTION -->
 <h2 id="specification"  align="center">Specification</h2>
-<p>Based on ESP32 microcontroller with built-in Bluetooth and WiFi modules and attached OLED display communicating with the main board over SPI interface.</p>
+<p>Based on ESP32 microcontroller with built-in Bluetooth and WiFi modules and attached LCD display communicating with the main board over SPI interface.</p>
 
 <!-- COMPONENTS -->
 <h2 id="components">Components</h2>
@@ -19,11 +19,9 @@
 <li>Standalone system</li>
 <li>Live WiFi network analysis</li>
 <li>WiFi networks fetching</li>
-<li>Checking the channel occupancy</li>
-<li>Measuring network latency </li>
 <li>Measuring signal strength</li>
-<li>Data presentation on OLED screen</li>
-<li>Sending information about nearby WiFi networks to a smartphone over Bluetooth</li>
+<li>Data presentation on LCD TFT screen (ILI9341)</li>
+<li>Remote control over Bluetooth</li>
 </ul>
 
 <!-- ROADMAP -->
@@ -52,7 +50,7 @@
 
 <!-- DOCS -->
 <h2 id="documentation">Documentation</h2>
-<p><a href="https://docs.google.com/document/d/1zGVxelh6Lqd8fTjk6PqKxtoFgIcpbrBV/edit?usp=sharing&ouid=104207368821701978385&rtpof=true&sd=true" target="_blank">Open Documentation</a></p>
+<p><a href="https://drive.google.com/file/d/17NPVSh1mX54RB5hej4fzXOFSnYwPqoHJ/view?usp=sharing">Open Documentation</a></p>
 
 
 <!-- CREATORS -->
