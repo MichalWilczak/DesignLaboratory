@@ -10,7 +10,7 @@
 <h2 id="components">Components</h2>
 <ul>
 <li><a href="https://botland.com.pl/moduly-wifi-i-bt-esp32/8893-esp32-wifi-bt-42-platforma-z-modulem-esp-wroom-32-zgodny-z-esp32-devkit-5904422337438.html" target="_blank">ESP32 (BT+WiFi)</a> </li>
-<li><a href="https://www.waveshare.com/2.4inch-lcd-module.htm">LCD Display Module 2.4inch</a> </li>
+<li><a href="https://nettigo.pl/products/wyswietlacz-lcd-tft-2-4-ze-sterownikiem-ili9341-dotykowy">LCD Display Module 2.4inch</a> </li>
 </ul>
 
 <!-- FEATURES -->
