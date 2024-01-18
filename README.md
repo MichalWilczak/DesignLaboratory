@@ -37,14 +37,24 @@
     <th width=250px>Paweł</th>
   </tr>
   <tr>
-    <td>&#x23F3; Readme</td>
-    <td>&#x23F3; Readme</td>
-    <td>&#x23F3; Readme</td>
+    <td>&#x2705; Readme</td>
+    <td>&#x2705; Readme</td>
+    <td>&#x2705; Readme</td>
   </tr>
   <tr>
     <td>&#x2705; Roadmap</td>
     <td>&#x2705; Pinout and connection</td>
     <td>&#x2705; Pinout and connection</td>
+  </tr>
+  <tr>
+    <td>&#x2705; Documentation</td>
+    <td>&#x2705; Programming</td>
+    <td>&#x2705; Main programming</td>
+  </tr>
+    <tr>
+    <td>&#x2705; Graphics</td>
+      <td></td>
+      <td></td>
   </tr>
 </table>
 
